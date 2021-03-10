@@ -12,8 +12,6 @@ eleventyNavigation:
 
 ### Logical Appeals Goes Deep on Issues that Matter
 
-[Follow us on twitter](twitter.com/logicalappeals) - To reach us, send us a DM
-
-
+[Follow us on twitter](https://twitter.com/logicalappeals) - To reach us, send us a DM
 
 ![Logical Appeals](/static/img/logical-appeals-logo.png "Logical Appeals")
